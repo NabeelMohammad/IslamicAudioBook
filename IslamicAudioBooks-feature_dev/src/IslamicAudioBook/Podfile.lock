@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.1.0)
+  - RappleProgressHUD (4.1)
+  - Realm (4.4.0):
+    - Realm/Headers (= 4.4.0)
+  - Realm/Headers (4.4.0)
+  - RealmSwift (4.4.0):
+    - Realm (= 4.4.0)
+  - SDWebImage (5.8.3):
+    - SDWebImage/Core (= 5.8.3)
+  - SDWebImage/Core (5.8.3)
+  - Signals (6.1.0)
+  - Siren (5.4.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - RappleProgressHUD
+  - RealmSwift
+  - SDWebImage
+  - Signals
+  - Siren
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - RappleProgressHUD
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - Signals
+    - Siren
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  RappleProgressHUD: f29bc5dc5f9834c2caa9c2ae21ba11f3ff2b5a85
+  Realm: e125f464884cda953ebefe70c671b75b03b81b9b
+  RealmSwift: 33656a42bd300959a081fc13347376bc478071af
+  SDWebImage: 112503ec94a5a2a41869503844a15e8d8f1ead5c
+  Signals: f8e5c979e93c35273f8dfe55ee7f47213d3e8fe8
+  Siren: 9df16ed5278cfaad7ea034f3d2206e4f6983e9b8
+
+PODFILE CHECKSUM: 448bc9e7e039ce7145ae641c3195ef33ac526c1d
+
+COCOAPODS: 1.8.4

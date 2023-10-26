@@ -1,0 +1,114 @@
+
+/* Class = "UISegmentedControl"; 2CV-Nl-zen.segmentTitles[0] = "English"; ObjectID = "2CV-Nl-zen"; */
+"2CV-Nl-zen.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; 2CV-Nl-zen.segmentTitles[1] = "Second"; ObjectID = "2CV-Nl-zen"; */
+"2CV-Nl-zen.segmentTitles[1]" = "Second";
+
+/* Class = "UITabBarItem"; title = "Menu"; ObjectID = "2yD-fe-uRx"; */
+"2yD-fe-uRx.title" = "Menu";
+
+/* Class = "UILabel"; text = "Urdu Synopsis"; ObjectID = "432-lO-pOV"; */
+"432-lO-pOV.text" = "Urdu Synopsis";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6Ha-3M-UpI"; */
+"6Ha-3M-UpI.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "7Sk-kB-fHV"; */
+"7Sk-kB-fHV.text" = "1";
+
+/* Class = "UITabBarItem"; title = "Featured"; ObjectID = "8XQ-TX-Va5"; */
+"8XQ-TX-Va5.title" = "Featured";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Cqg-wL-S6C"; */
+"Cqg-wL-S6C.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HMG-iK-eWe"; */
+"HMG-iK-eWe.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Islamic Audio Books"; ObjectID = "Ire-g0-W8c"; */
+"Ire-g0-W8c.title" = "Islamic Audio Books";
+
+/* Class = "UILabel"; text = "--:--"; ObjectID = "NEn-DV-QEf"; */
+"NEn-DV-QEf.text" = "--:--";
+
+/* Class = "UILabel"; text = "88 Audioa"; ObjectID = "NXg-lS-zaF"; */
+"NXg-lS-zaF.text" = "88 Audioa";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "OdB-zQ-9Ce"; */
+"OdB-zQ-9Ce.title" = "Home";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "P7F-J5-4mq"; */
+"P7F-J5-4mq.text" = "Label";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "QTj-m0-yEV"; */
+"QTj-m0-yEV.text" = "1";
+
+/* Class = "UINavigationItem"; title = "Islamic Audio Books"; ObjectID = "Rcn-cu-wHR"; */
+"Rcn-cu-wHR.title" = "Islamic Audio Books";
+
+/* Class = "UISegmentedControl"; SUD-kM-QuW.segmentTitles[0] = "First"; ObjectID = "SUD-kM-QuW"; */
+"SUD-kM-QuW.segmentTitles[0]" = "First";
+
+/* Class = "UISegmentedControl"; SUD-kM-QuW.segmentTitles[1] = "Second"; ObjectID = "SUD-kM-QuW"; */
+"SUD-kM-QuW.segmentTitles[1]" = "Second";
+
+/* Class = "UISegmentedControl"; SUD-kM-QuW.segmentTitles[2] = "Share"; ObjectID = "SUD-kM-QuW"; */
+"SUD-kM-QuW.segmentTitles[2]" = "Share";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UbW-S3-rDC"; */
+"UbW-S3-rDC.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VnR-sY-wuS"; */
+"VnR-sY-wuS.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XCS-ub-SMO"; */
+"XCS-ub-SMO.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Islamic Audio Books"; ObjectID = "biu-23-z2R"; */
+"biu-23-z2R.title" = "Islamic Audio Books";
+
+/* Class = "UILabel"; text = "Urdu Title"; ObjectID = "dGn-dK-OzQ"; */
+"dGn-dK-OzQ.text" = "Urdu Title";
+
+/* Class = "UISegmentedControl"; daB-Ux-0ph.segmentTitles[0] = "English"; ObjectID = "daB-Ux-0ph"; */
+"daB-Ux-0ph.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; daB-Ux-0ph.segmentTitles[1] = "Urdu"; ObjectID = "daB-Ux-0ph"; */
+"daB-Ux-0ph.segmentTitles[1]" = "Urdu";
+
+/* Class = "UILabel"; text = "V 1.0.0"; ObjectID = "iEn-gc-h6s"; */
+"iEn-gc-h6s.text" = "V 1.0.0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iRh-Ia-61p"; */
+"iRh-Ia-61p.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iZY-Hr-Hrz"; */
+"iZY-Hr-Hrz.text" = "Label";
+
+/* Class = "UILabel"; text = "chapter count"; ObjectID = "klb-cw-rKd"; */
+"klb-cw-rKd.text" = "chapter count";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "mJG-hv-1dL"; */
+"mJG-hv-1dL.title" = "Search";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "mUw-6B-1yS"; */
+"mUw-6B-1yS.text" = "1";
+
+/* Class = "UILabel"; text = "Eng Synopsis"; ObjectID = "mnV-Qs-oQp"; */
+"mnV-Qs-oQp.text" = "Eng Synopsis";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oDs-sQ-Jyo"; */
+"oDs-sQ-Jyo.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Islamic Audio Books"; ObjectID = "t7p-2J-cj9"; */
+"t7p-2J-cj9.title" = "Islamic Audio Books";
+
+/* Class = "UILabel"; text = "Eng Title"; ObjectID = "wfL-jj-8C8"; */
+"wfL-jj-8C8.text" = "Eng Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ww0-VG-TYl"; */
+"ww0-VG-TYl.text" = "Label";
+
+/* Class = "UILabel"; text = "--:--"; ObjectID = "xSB-4b-nGD"; */
+"xSB-4b-nGD.text" = "--:--";
